@@ -1,0 +1,10 @@
+/* Hole */
+.scrollable-page-container>ac-staticcell { height: 100%; overflow: auto; }
+.table-hover > tbody > tr:focus {
+	background-color: #cce8ff;
+}
+.table-hover ac-textinput > input.input-sm {
+	padding: 0;
+	height: auto;
+	border: 0;
+}
